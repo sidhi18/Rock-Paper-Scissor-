@@ -17,7 +17,7 @@ Beginner-friendly code
 
 Clone the repository
 
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/sidhi18/rock-paper-scissors.git
 
 
 Open the project in your Java IDE (e.g., IntelliJ, Eclipse, VS Code).
